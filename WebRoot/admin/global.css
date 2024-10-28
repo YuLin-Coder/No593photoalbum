@@ -1,0 +1,238 @@
+.topnav_matter_td {
+	font-size: 12px;
+}
+.top_banner {
+	background-image: url(/photoalbum/admin/images/top.JPG);
+}
+
+.body_bg {
+	background-color: #6DCDFF;
+	margin: 0px;
+}
+
+.main_matter_turnpage {
+	font-size: 12px;
+}
+
+.globalnav_matter_td {
+	font-size: 12px;
+	font-weight: bold;
+	background-image: url(/photoalbum/admin/images/bg9_1.GIF);
+}
+.main_title_td_center2 {
+	line-height: 22px;
+	background-image: url(/photoalbum/admin/images/bg3.gif);
+	height: 22px;
+	color: #000000;
+	font-size: 12px;
+}
+.main_title_td_bg {
+	background-image: url(/photoalbum/admin/images/b3.gif);
+}
+
+
+.main_matter_td {
+	border: 1px solid #EAF5FD;
+	padding-left: 4px;
+	font-size: 12px;
+	line-height: 22px;
+	color: #333333;
+}
+.main_matter_td_currentsite {
+	font-size: 12px;
+	line-height: 22px;
+	color: #333333;
+}
+
+
+a:link {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.main_title_td_center {
+	line-height: 24px;
+	background-image: url(/photoalbum/admin/images/b5.gif);
+	height: 24px;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+	padding-top: 4px;
+	text-align: center;
+}
+.main_table_frame {
+	padding: 6px;
+	border-top-width: 1px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: solid;
+	border-top-color: #75C5FD;
+	border-right-color: #75C5FD;
+	border-bottom-color: #75C5FD;
+	border-left-color: #75C5FD;
+}
+.main_bg {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background-image: url(/photoalbum/admin/images/bg7.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+	padding-right: 12px;
+}
+.desk_table_bg {
+	background-image: url(/photoalbum/admin/images/bg7_2.gif);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+
+.leftsidebar_table_frame {
+	border-top-width: 1px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: solid;
+	border-top-color: #75C5FD;
+	border-right-color: #75C5FD;
+	border-bottom-color: #75C5FD;
+	border-left-color: #75C5FD;
+	padding-left: 1px;
+	margin-left: 8px;
+}
+.leftsidebar_title_td2 {
+	font-size: 12px;
+	color: #000000;
+	line-height: 22px;
+	background-image: url(/photoalbum/admin/images/bgLeft2.gif);
+	font-weight: bold;
+}
+.leftsidebar_title_td {
+
+	font-size: 12px;
+	color: #000000;
+	line-height: 22px;
+	background-image: url(/photoalbum/admin/images/bgLeft1.gif);
+}
+.main_label_td_bg_center {
+	font-size: 12px;
+	line-height: 19px;
+	color: #000000;
+	background-image: url(/photoalbum/admin/images/tdTitleBg1.GIF);
+	text-align: center;
+}
+.main_label_td_bg2 {
+	background-image: url(/photoalbum/admin/images/tdTitleBg2.GIF);
+	width: 2px;
+}
+.main_label_td_bg4 {
+	font-size: 12px;
+	line-height: 19px;
+	color: #003399;
+	background-image: url(/photoalbum/admin/images/tdTitleBg3.GIF);
+	text-align: center;
+	font-weight: bold;
+}
+.textBox {
+	font-size: 12px;
+	height: 14px;
+	border: 1px solid #D6E9F3;
+	color: #000066;
+}
+.textArea {
+	font-size: 12px;
+	border: 1px solid #D6E9F3;
+	color: #000066;
+}
+.textSelect {
+	font-size: 12px;
+	color: #000066;
+	height: 20px;
+	border: 1px solid #D6E9F3;
+}
+
+.main_label_center:link {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.main_label_center:visited {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.main_label_center:hover {
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	background-image: url(/photoalbum/admin/images/tdTitleBg3.gif);
+	line-height: 19px;
+	height: 19px;
+	display: block;
+}
+.globalnav_title_td:link {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	line-height: 26px;
+}
+.globalnav_title_td:visited {
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	line-height: 26px;
+}
+.globalnav_title_td:hover {
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	background-image: url(/photoalbum/admin/images/bg9.GIF);
+	display: block;
+	line-height: 26px;
+}
+.leftsidebar_bg {
+	background-image: url(/photoalbum/admin/images/bg7_1.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+.leftsidebar_matter_td {
+	font-size: 12px;
+	color: #0066CC;
+	line-height: 22px;
+	background-color: #DCF0FC;
+}
+.main_desk_table {
+	border-top-width: 1px;
+	border-right-width: 3px;
+	border-bottom-width: 3px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+.main_matter_td_right {
+	font-size: 12px;
+	text-align: right;
+}
